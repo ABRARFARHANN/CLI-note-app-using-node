@@ -1,4 +1,4 @@
-# Note
+# Ternote
 
 A simple Node.js command-line note app with local JSON storage and a lightweight web view.
 
